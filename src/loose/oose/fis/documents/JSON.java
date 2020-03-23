@@ -24,6 +24,6 @@ public class JSON extends Document {
 
     @Override
     public String toString() {
-        return "JSON " + super.toString();
+        return "JSON " + super.toString() + "adaugat cv";
     }
 }
