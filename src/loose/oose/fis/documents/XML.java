@@ -24,6 +24,6 @@ public class XML extends Document {
 
     @Override
     public String toString() {
-        return "XML " + super.toString() + "ceva";
+        return "XML " + super.toString()+"dai ceva mai";
     }
 }
