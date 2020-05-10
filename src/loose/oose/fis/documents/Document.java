@@ -8,6 +8,10 @@ public abstract class Document {
     }
 
     public abstract String[] analizeaza();
+    public int redund()
+    {
+        return 3;
+    }
 
     @Override
     public String toString() {
